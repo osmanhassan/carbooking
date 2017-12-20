@@ -1,4 +1,6 @@
 
+This project is done for car booking system using PHP core(MVC), MYSQL, Jquery, HTML 5, Bootstrap4
+
 Extract:
 Extract the zip folder on your server
 
